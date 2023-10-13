@@ -1,3 +1,7 @@
+#Author: <Förnamn Efternamn>
+#Date: 2023-10-12
+
+
 def calc_paralel(resistanses_P):
    total_R_P = 0
    for i in resistanses_P:
